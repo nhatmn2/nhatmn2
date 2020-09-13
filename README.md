@@ -11,6 +11,14 @@
 <br />
 <br /> 
 
-![Nhat's github stats](https://github-readme-stats.vercel.app/api?username=nhatmn2&show_icons=true&hide_border=true&theme=merko)  
-<br />
-![Nhat's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmn2&show_icons=true&hide_border=true&theme=merko")
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nhatmn2&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmn2&theme=tokyonight">
+</p>
+
+</details>
