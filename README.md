@@ -11,5 +11,5 @@
 <br />
 <br /> 
 
-![Nhat's github stats](https://github-readme-stats.vercel.app/api?username=nhatmn2&show_icons=true&hide_border=true&theme=dark)  
-![Nhat's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmn2&show_icons=true&hide_border=true&theme=dark")
+![Nhat's github stats](https://github-readme-stats.vercel.app/api?username=nhatmn2&show_icons=true&hide_border=true&theme=radical)  
+![Nhat's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmn2&show_icons=true&hide_border=true&theme=radical")
