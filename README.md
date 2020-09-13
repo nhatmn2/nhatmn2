@@ -10,7 +10,7 @@
 I am a developer who enjoy working in Java, C/C++, Python. I am actively looking for opportunities in Software Engineer. 
 
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary><b>My Github Stats</b>: </summary>
 
 <br>
 <p>
