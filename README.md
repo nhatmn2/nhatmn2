@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hey 👋, I'm NHAT NGUYEN (NATHAN) 
 
-<!--
-**nhatmn2/nhatmn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmn2&langs_count=10)](https://github.com/nhatmn2/github-readme-stats)
+<a href="https://www.linkedin.com/in/nhat-nguyen-514967139/">
+  <img align="left" alt="Nathan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/nhatnguyen9507/?hl=en">
+  <img align="left" alt="Nathan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
