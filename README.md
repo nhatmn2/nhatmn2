@@ -13,7 +13,7 @@ I am a developer who enjoy working in Java, C/C++, Python. I am actively looking
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <br>
-<p align = "center">
+<p>
   <img src = "https://github-readme-stats.vercel.app/api?username=nhatmn2&show_icons=true&theme=tokyonight&line_height=27">
   <br />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmn2&theme=tokyonight">
