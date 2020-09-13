@@ -6,3 +6,5 @@
 <a href="https://www.instagram.com/nhatnguyen9507/?hl=en">
   <img align="left" alt="Nathan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+![Nhat's github stats](https://github-readme-stats.vercel.app/api?username=nhatmn2&show_icons=true&hide_border=true)
