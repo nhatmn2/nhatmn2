@@ -7,7 +7,6 @@
   <img align="left" alt="Nathan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>  
 <br>Software developer who enjoy working in Java, C/C++, Python. 
-<br>Actively looking for opportunities in Software Engineer. 
 
 <details open>
  <summary><b>My Github Stats</b>: </summary>
