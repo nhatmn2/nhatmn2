@@ -1,5 +1,5 @@
 
-### Hey 👋, I'm Nhat Nguyen (Nathan) 
+### Hey 👋, I'm Nathan Nguyen 
 <a href="https://www.linkedin.com/in/nhat-nguyen-514967139/">
   <img align="left" alt="Nathan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
