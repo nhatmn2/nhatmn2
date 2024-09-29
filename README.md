@@ -25,6 +25,6 @@
   <p>
     <img src = "https://github-readme-stats.vercel.app/api?username=nhatmn2&show_icons=true&theme=tokyonight&line_height=27">
     <br />
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmn2&theme=tokyonight">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nhatmn2&theme=tokyonight&layout=compact">
   </p>
 </details>
