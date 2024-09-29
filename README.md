@@ -1,5 +1,4 @@
-### Hey 👋, I'm [Nathan Nguyen] 
-https://www.linkedin.com/in/nhat-nguyen-514967139/
+### Hey 👋, I'm [Nathan Nguyen] (https://www.linkedin.com/in/nathan-nguyen-514967139/)
 - 🖥️ **4 years of experience** in software development and IT analysis, with a focus on:
   - Development Salesforce application using APEX 
   - Quality Assurance (QA)
