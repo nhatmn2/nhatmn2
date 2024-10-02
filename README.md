@@ -14,7 +14,6 @@
 - 🚀 I'm excited about roles that align with my expertise in software development and my passion for system optimization. I’m also dedicated to:  
   - **Learning new skills**  
   - Staying up-to-date with the latest tech trends  
-  - Contributing to **open-source projects**
 
 ---
 
